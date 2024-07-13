@@ -55,13 +55,15 @@ def back_to_default():
     time.sleep(2)
 
 
-workstream()
-time.sleep(1)
-run_workstream()
-time.sleep(1)
-workstream()
-time.sleep(1)
-back_to_default()
+def main()
+    workstream()
+    time.sleep(1)
+    run_workstream()
+    time.sleep(1)
+    workstream()
+    time.sleep(1)
+    back_to_default()
+
 
 if __name__ == '__main__':
-    pass
+    main()
